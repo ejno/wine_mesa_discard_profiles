@@ -1,3 +1,7 @@
+# Update
+With recent releases of Mesa, you can now just use something like
+`MESA_GL_VERSION_OVERRIDE=3.3COMPAT`.
+
 # wine_mesa_discard_profiles
 Discards OpenGL profile masks when creating contexts under Wine with Mesa.
 
